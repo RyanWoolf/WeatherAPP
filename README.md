@@ -2,16 +2,23 @@
 ## **Weather APP powered by WeatherAPI.com**
 ----------------------------------------------------------------
 
-### coded on **Reac.js Laravel, Tailwind CSS**
+### coded on **React.js Laravel and Tailwind CSS**
 
 ### Before start please make sure you do the below
 
 ```bash
 composer install
 
-npm install --force
+npm install
 ```
 
+### To run this app,
+
+```bash
+php artisan serve
+
+npm run dev
+```
 
 ### Please add API key in  .ENV 
 ```
